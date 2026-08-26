@@ -1,0 +1,21 @@
+.github/workflows/contribution-snake.yml
+  s_d9dfca26662016::t_08c8fada843dda 4-6
+SETUP.md
+  s_d9dfca26662016::t_08c8fada843dda 20,25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "a3505e0f0661bd66f994a170cf669fe0d0dd3fc8",
+  "prompts": {},
+  "sessions": {
+    "s_d9dfca26662016": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a03ba1-433d-7812-9b59-7def87ace68a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "leiguoqing <191789784@qq.com>"
+    }
+  }
+}
