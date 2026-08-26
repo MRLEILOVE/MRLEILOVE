@@ -30,6 +30,9 @@
 - 🌱 持续学习 Kotlin、IntelliJ Platform 与 AI 辅助开发
 - 📍 中国深圳
 
+## 连载小说
+<a href="https://juejin.cn/column/7574568258788327475"><img src="https://img.shields.io/badge/掘金-程序员的离谱职场日记-1E80FF?style=flat-square" alt="程序员的离谱职场日记" /></a>
+
 ## 技术栈
 
 <p>
@@ -75,4 +78,8 @@
   <a href="https://github.com/MRLEILOVE">GitHub</a>
   ·
   <a href="https://blog.csdn.net/qq_34845394">CSDN</a>
+  ·
+  <a href="https://juejin.cn/user/1239904846353710">掘金</a>
+  ·
+  <a href="https://www.cnblogs.com/leigq">博客园</a>
 </p>
