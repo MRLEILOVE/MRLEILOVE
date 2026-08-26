@@ -1,0 +1,14 @@
+README.md
+  h_ae199f2ac4f41a 19-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "3fe586890e0bbfe7e405f916af6b62db805efef7",
+  "prompts": {},
+  "humans": {
+    "h_ae199f2ac4f41a": {
+      "author": "leiguoqing <191789784@qq.com>"
+    }
+  }
+}
