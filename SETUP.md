@@ -17,12 +17,12 @@ git push -u origin main
 
 进入仓库的 `Settings -> Actions -> General -> Workflow permissions`，确认允许 `Read and write permissions`。
 
-然后在 `Actions` 页面手动运行一次：
+首次推送到 `main` 后，贡献动画工作流会自动运行，不需要等待每日定时任务。如果希望再次立即刷新，也可以在 `Actions` 页面手动运行：
 
 1. `Update latest blog posts`
 2. `Generate contribution snake`
 
-贡献动画第一次生成后，会创建 `output` 分支。README 中的贡献轨迹随后即可显示。
+贡献动画第一次生成后，会创建 `output` 分支。README 中的贡献轨迹通常会在 GitHub Actions 执行完成后的几分钟内显示，具体时间取决于 GitHub Actions 排队和 GitHub 图片缓存。
 
 ## 4. 调整主页置顶项目
 
@@ -42,4 +42,3 @@ git push -u origin main
 - 检查 CSDN RSS 工作流能否获取文章。
 - 如果不希望公开位置，可从 README 删除“中国深圳”。
 - 如果不希望使用第三方统计服务，可删除“GitHub 数据”区域。
-
