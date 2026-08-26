@@ -16,6 +16,12 @@
 
 > 做一件事，就把一件事做好，别半途而废了。
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MRLEILOVE/MRLEILOVE/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MRLEILOVE/MRLEILOVE/output/github-contribution-grid-snake.svg" />
+  <img alt="MRLEILOVE contribution snake" src="https://raw.githubusercontent.com/MRLEILOVE/MRLEILOVE/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## 关于我
 
 - 🔭 正在打磨 IntelliJ Database Tools 插件与 AI 开发工具
@@ -62,14 +68,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [前往 CSDN 查看我的技术文章](https://blog.csdn.net/qq_34845394)
 <!-- BLOG-POST-LIST:END -->
-
-## 贡献轨迹
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MRLEILOVE/MRLEILOVE/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MRLEILOVE/MRLEILOVE/output/github-contribution-grid-snake.svg" />
-  <img alt="MRLEILOVE contribution snake" src="https://raw.githubusercontent.com/MRLEILOVE/MRLEILOVE/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
