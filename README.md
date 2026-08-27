@@ -69,7 +69,11 @@
 ## 最新文章
 
 <!-- BLOG-POST-LIST:START -->
-- [前往 CSDN 查看我的技术文章](https://blog.csdn.net/qq_34845394)
+- [GraalVM入门教程](https://blog.csdn.net/qq_34845394/article/details/133951625)
+- [分享个兼容Java8时间的Jackson工具类](https://blog.csdn.net/qq_34845394/article/details/90072563)
+- [@ControllerAdvice + @ExceptionHandler 全局处理 Controller 层异常](https://blog.csdn.net/qq_34845394/article/details/116800169)
+- [@Autowired和构造方法执行的顺序解析](https://blog.csdn.net/qq_34845394/article/details/116800110)
+- [SpringMVC 拦截器 Interceptor](https://blog.csdn.net/qq_34845394/article/details/116800014)
 <!-- BLOG-POST-LIST:END -->
 
 ---
