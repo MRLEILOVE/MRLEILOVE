@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.png" width="100%" alt="MRLEILOVE developer profile banner" />
 </div>
 
-<h1 align="center">你好，我是阿雷 👋</h1>
+<h1 align="center">你好👋</h1>
 
 <p align="center">
   Java 后端开发者 · IntelliJ 插件开发者 · 开源工具创作者
@@ -23,12 +23,8 @@
 </picture>
 
 ## 关于我
-
-- 🔭 正在打磨 IntelliJ Database Tools 插件与 AI 开发工具
 - 🧩 喜欢把真实工作中的重复操作，做成简单可靠的产品
-- 🎵 长期参与音乐生成、支付积分与版权业务的后端建设
-- 🌱 持续学习 Kotlin、IntelliJ Platform 与 AI 辅助开发
-- 📍 中国深圳
+- 📍 缅甸
 
 ## 连载小说
 <a href="https://juejin.cn/column/7574568258788327475"><img src="https://img.shields.io/badge/掘金-程序员的离谱职场日记-1E80FF?style=flat-square" alt="程序员的离谱职场日记" /></a>
@@ -45,15 +41,6 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
-
-## 精选项目
-
-| 项目 | 简介 | 技术 |
-| --- | --- | --- |
-| [Database Column Comments](https://github.com/MRLEILOVE/database-column-comments) | 在 IntelliJ 数据库表与 SQL Result Grid 表头中直接显示字段类型和字段注释 | Kotlin · IntelliJ Platform |
-| [AI Git Commit](https://github.com/MRLEILOVE/ai-git-commit) | 在 IntelliJ IDEA 中使用 AI 生成 Git 提交信息并增强 Git Log 工作流 | Kotlin · AI |
-| [Spring Boot Shiro](https://github.com/MRLEILOVE/spring-boot-shiro) | Spring Boot + Shiro 前后端分离实践 | Java · Spring Boot |
-| [Yearning Tampermonkey Toolkit](https://github.com/MRLEILOVE/yearning-tampermonkey-toolkit) | 一组用于增强 Yearning 使用体验的 Tampermonkey 用户脚本 | JavaScript · Userscript |
 
 ## GitHub 数据
 
